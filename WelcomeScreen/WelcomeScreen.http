@@ -1,0 +1,6 @@
+@WelcomeScreen_HostAddress = http://localhost:5268
+
+GET {{WelcomeScreen_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
